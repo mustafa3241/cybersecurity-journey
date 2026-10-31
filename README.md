@@ -1,10 +1,17 @@
-Completed TryHackMe's Cyber Security 101 learning path: 45+ hours of hands-on labs covering networking, Linux, Windows, web security, and offensive and defensive fundamentals.
+Cybersecurity Journey
 
-Biggest takeaway: security isn't about memorizing commands. It's about understanding how attackers think and knowing how to investigate.
+Final-year Computer Science student at Beaconhouse National University (BNU) building practical security skills, aiming for a SOC / security analyst role. This repo documents my notes, labs, and projects.
 
-I'm a final-year CS student at BNU working toward a SOC analyst role. Next up: CompTIA Security+.
+Progress
+Status	Milestone	Date
+Done	TryHackMe: Cyber Security 101 (45h 23m)	Oct 2026
+In progress	CompTIA Security+ (SY0-701)	
+Planned	TryHackMe: SOC Level 1	
+Planned	Hands-on security project	
+Cyber Security 101
 
+Hands-on TryHackMe path covering networking, Linux, Windows, web security, and offensive and defensive fundamentals. Certificate of completion is in cyber-security-101/.
+
+Contact
 LinkedIn: linkedin.com/in/muhammad-mustafa-kamran
 TryHackMe: tryhackme.com/p/musti64.kamran
-
-#cybersecurity #tryhackme #infosec
